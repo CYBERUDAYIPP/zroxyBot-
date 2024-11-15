@@ -13,7 +13,7 @@ Whatsapp Bot Created by CYBER UDAYIPP
 <p align="center">
  
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://files.catbox.moe/047glv.jpeg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/CYBEUDAYIPP"><img title="Author" src="https://files.catbox.moe/047glv.jpeg?style=for-the-badge&logo=github"></a>
 <p>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
