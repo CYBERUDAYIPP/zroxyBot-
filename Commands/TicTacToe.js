@@ -1,12 +1,9 @@
 /**
- Copyright (C) 2022.
- Licensed under the  GPL-3.0 License;
- You may not use this file except in compliance with the License.
- It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : @samapndey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
+
+ * @project_name : ZROXY-MD
+ * @author : CYBER UDAYIPP <https://github.com/CYBERUDAYIPP>
+ * @description : ZROXY-MD,Is A whatsapp bot.Use this bot and enjoyy
+ * @version 0.0.1
  **/
 
  const { cmd, parseJid,getAdmin,tlang } = require("../lib/");
@@ -259,4 +256,4 @@ cmd({ pattern: "ship" , category: "fun" }, async(Void, citel, text) => {
         await Void.sendMessage(citel.chat,{text: caption,mentions: [citel.sender,shiper]},{quoted:citel})
    }
 )
-// IDEA of Shipcent from => https://github.com/iamherok/WhatsApp-Botto-Ruka/blob/master/handler/message.js#L842
+
