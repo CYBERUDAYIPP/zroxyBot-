@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "SamPandey001",
+  "AUTHOR": "cyber udayipp",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,16 +10,16 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": " Powered by Secktor",
-          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "botName": " Powered by CYBER UDAYIPP",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡☠️",
           "greet2" : "Sir",
-          "pic1": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/first.jpg",
-          "pic2": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/second.jpg",
-          "pic3": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/third.jpg",
-          "pic4": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/fourth.jpg",
-          "pic5": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/fifth.jpg",
-          "pic6": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/sixth.jpg",
-          "pic7": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/seventh.jpg",
+          "pic1": "https://files.catbox.moe/4taoyw.jpeg",
+          "pic2": "https://files.catbox.moe/4bl4ko.jpeg",
+          "pic3": "https://files.catbox.moe/28oyo2.jpeg",
+          "pic4": "https://files.catbox.moe/4taoyw.jpeg",
+          "pic5": "https://files.catbox.moe/28oyo2.jpeg",
+          "pic6": "https://files.catbox.moe/4taoyw.jpeg",
+          "pic7": "https://files.catbox.moe/28oyo2.jpeg",
            "greet" : "Sir",
          "dotbody" : "I'm Alive.",
           "promote": "Admin Role Given to my Darling",
@@ -49,7 +49,7 @@
           "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅" 
       },
       "error": {
-          "text": "*Uhh,Got an Error*"
+          "text": "*Uhh,Got an Error*💀"
       }
   }
 }
