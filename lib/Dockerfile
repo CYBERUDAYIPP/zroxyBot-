@@ -1,6 +1,7 @@
-FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/SamPandey001/Secktor-Md /root/SamPandey001
-WORKDIR /root/SamPandey001/
+FROM quay.io/cyberudayipp/zroxy
+RUN git clone https://github.com/CYBERUDAYIPP/ZROXY-MD /root/cyberudayipp
+https://github.com/CYBERUDAYIPP/ZROXY-MD.git
+WORKDIR /root/cyberudayipp/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
