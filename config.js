@@ -6,9 +6,9 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'sam@secktor.live'
+global.email = 'irshadmohammed741@gmail.com'
 global.github = 'https://github.com/CYBERUDAYIPP/ZROXY-MD'
-global.location = 'Sultanpur IN'
+global.location = 'kerala IN'
 global.gurl = 'https://instagram.com/cyber_udayipp' // add your username
 global.sudo = process.env.SUDO || '918129540560'
 global.devs = '918129540560';
